@@ -1,1 +1,1 @@
-# bootstrap
+Exclusive Tour Guide is a modern and unique one-page website designed for tour guide services. Built with HTML, CSS, and Bootstrap, it offers a smooth and responsive experience. The website features a full-screen hero section, detailed tour categories, and an easy-to-access contact section. The design focuses on simplicity, elegance, and usability to provide an engaging browsing experience. Contact us at recep.celik@egeacademy.ca for more details.
